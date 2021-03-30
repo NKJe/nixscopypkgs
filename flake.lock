@@ -33,11 +33,11 @@
     },
     "flake-utils_2": {
       "locked": {
-        "lastModified": 1605370193,
-        "narHash": "sha256-YyMTf3URDL/otKdKgtoMChu4vfVL3vCMkRqpGifhUn0=",
+        "lastModified": 1614513358,
+        "narHash": "sha256-LakhOx3S1dRjnh0b5Dg3mbZyH0ToC9I8Y2wKSkBaTzU=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "5021eac20303a61fafe17224c087f5519baed54d",
+        "rev": "5466c5bbece17adaab2d82fae80b46e807611bf3",
         "type": "github"
       },
       "original": {
@@ -48,11 +48,11 @@
     },
     "flake-utils_3": {
       "locked": {
-        "lastModified": 1605370193,
-        "narHash": "sha256-YyMTf3URDL/otKdKgtoMChu4vfVL3vCMkRqpGifhUn0=",
+        "lastModified": 1614513358,
+        "narHash": "sha256-LakhOx3S1dRjnh0b5Dg3mbZyH0ToC9I8Y2wKSkBaTzU=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "5021eac20303a61fafe17224c087f5519baed54d",
+        "rev": "5466c5bbece17adaab2d82fae80b46e807611bf3",
         "type": "github"
       },
       "original": {
@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "my-very-cool-background",
-        "lastModified": 1608165316,
-        "narHash": "sha256-tmwE7ibc38Zp1gLgv5Qmfy50mRvNye4YjhC8aWyn8zs=",
+        "lastModified": 1617064317,
+        "narHash": "sha256-xx/+AsVwgajvvdZV/Nj00Rtr2sbHZ9yrLt/Yv0HhGEs=",
         "owner": "NKJe",
         "repo": "nixscopy",
-        "rev": "716915822b99910720f1167a422594961870869f",
+        "rev": "f3b1fc1a7732f0a34c2a1baa7c26ff939bbd36ce",
         "type": "github"
       },
       "original": {
@@ -98,11 +98,11 @@
     },
     "nixpkgs_2": {
       "locked": {
-        "lastModified": 1608156341,
-        "narHash": "sha256-xci6kOlF37sxE7BAhNEUnJq3C1yLMLPFVBHyRQiT/Jk=",
+        "lastModified": 1617063239,
+        "narHash": "sha256-OQancnNH1IOd4e45i8yE1B3Y0uKjeBQSBRaX+aHqCBM=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "120a14e6aa32114ce561c4f051fa7438d4ed7bd9",
+        "rev": "b044cc3833b228eacbe4e64299856aa37893168e",
         "type": "github"
       },
       "original": {
@@ -112,11 +112,11 @@
     },
     "nixpkgs_3": {
       "locked": {
-        "lastModified": 1608156341,
-        "narHash": "sha256-xci6kOlF37sxE7BAhNEUnJq3C1yLMLPFVBHyRQiT/Jk=",
+        "lastModified": 1617063239,
+        "narHash": "sha256-OQancnNH1IOd4e45i8yE1B3Y0uKjeBQSBRaX+aHqCBM=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "120a14e6aa32114ce561c4f051fa7438d4ed7bd9",
+        "rev": "b044cc3833b228eacbe4e64299856aa37893168e",
         "type": "github"
       },
       "original": {
@@ -126,11 +126,11 @@
     },
     "nixpkgs_4": {
       "locked": {
-        "lastModified": 1608156341,
-        "narHash": "sha256-xci6kOlF37sxE7BAhNEUnJq3C1yLMLPFVBHyRQiT/Jk=",
+        "lastModified": 1617063239,
+        "narHash": "sha256-OQancnNH1IOd4e45i8yE1B3Y0uKjeBQSBRaX+aHqCBM=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "120a14e6aa32114ce561c4f051fa7438d4ed7bd9",
+        "rev": "b044cc3833b228eacbe4e64299856aa37893168e",
         "type": "github"
       },
       "original": {
@@ -155,11 +155,11 @@
       },
       "locked": {
         "dir": "sddm-sugar-candy",
-        "lastModified": 1608165316,
-        "narHash": "sha256-tmwE7ibc38Zp1gLgv5Qmfy50mRvNye4YjhC8aWyn8zs=",
+        "lastModified": 1617064317,
+        "narHash": "sha256-xx/+AsVwgajvvdZV/Nj00Rtr2sbHZ9yrLt/Yv0HhGEs=",
         "owner": "NKJe",
         "repo": "nixscopy",
-        "rev": "716915822b99910720f1167a422594961870869f",
+        "rev": "f3b1fc1a7732f0a34c2a1baa7c26ff939bbd36ce",
         "type": "github"
       },
       "original": {
@@ -172,17 +172,13 @@
     "sddm-sugar-candy-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1580585463,
         "narHash": "sha256-XggFVsEXLYklrfy1ElkIp9fkTw4wvXbyVkaVCZq4ZLU=",
-        "ref": "master",
-        "rev": "2b72ef6c6f720fe0ffde5ea5c7c48152e02f6c4f",
-        "revCount": 53,
-        "type": "git",
-        "url": "https://framagit.org/MarianArlt/sddm-sugar-candy.git"
+        "type": "tarball",
+        "url": "https://framagit.org/MarianArlt/sddm-sugar-candy/-/archive/2b72ef6c6f720fe0ffde5ea5c7c48152e02f6c4f/sddm-sugar-candy-2b72ef6c6f720fe0ffde5ea5c7c48152e02f6c4f.tar.gz"
       },
       "original": {
-        "type": "git",
-        "url": "https://framagit.org/MarianArlt/sddm-sugar-candy.git"
+        "type": "tarball",
+        "url": "https://framagit.org/MarianArlt/sddm-sugar-candy/-/archive/2b72ef6c6f720fe0ffde5ea5c7c48152e02f6c4f/sddm-sugar-candy-2b72ef6c6f720fe0ffde5ea5c7c48152e02f6c4f.tar.gz"
       }
     },
     "zsh-autocomplete": {
@@ -193,11 +189,11 @@
       },
       "locked": {
         "dir": "zsh-autocomplete",
-        "lastModified": 1608165316,
-        "narHash": "sha256-tmwE7ibc38Zp1gLgv5Qmfy50mRvNye4YjhC8aWyn8zs=",
+        "lastModified": 1617064317,
+        "narHash": "sha256-xx/+AsVwgajvvdZV/Nj00Rtr2sbHZ9yrLt/Yv0HhGEs=",
         "owner": "NKJe",
         "repo": "nixscopy",
-        "rev": "716915822b99910720f1167a422594961870869f",
+        "rev": "f3b1fc1a7732f0a34c2a1baa7c26ff939bbd36ce",
         "type": "github"
       },
       "original": {
@@ -210,11 +206,11 @@
     "zsh-autocomplete-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1607634809,
-        "narHash": "sha256-sLgTsjIl+xm3xwFTHYmGXS0cLA5do3MkIvMFOeXAPKY=",
+        "lastModified": 1616860463,
+        "narHash": "sha256-oIa0QFyMLRjKkga5WlV8zsXB6S972ewYyydT6aLt57o=",
         "owner": "marlonrichert",
         "repo": "zsh-autocomplete",
-        "rev": "40cd8dfcc9d1718a26b102b8499c561ad7655646",
+        "rev": "fdc21c0bdf4be5ae5ddbfa5c781ddf07b73c4d0b",
         "type": "github"
       },
       "original": {
