@@ -18,11 +18,11 @@
     },
     "flake-utils": {
       "locked": {
-        "lastModified": 1605370193,
-        "narHash": "sha256-YyMTf3URDL/otKdKgtoMChu4vfVL3vCMkRqpGifhUn0=",
+        "lastModified": 1614513358,
+        "narHash": "sha256-LakhOx3S1dRjnh0b5Dg3mbZyH0ToC9I8Y2wKSkBaTzU=",
         "owner": "numtide",
         "repo": "flake-utils",
-        "rev": "5021eac20303a61fafe17224c087f5519baed54d",
+        "rev": "5466c5bbece17adaab2d82fae80b46e807611bf3",
         "type": "github"
       },
       "original": {
@@ -68,11 +68,11 @@
       },
       "locked": {
         "dir": "my-very-cool-background",
-        "lastModified": 1617064317,
-        "narHash": "sha256-xx/+AsVwgajvvdZV/Nj00Rtr2sbHZ9yrLt/Yv0HhGEs=",
+        "lastModified": 1617067094,
+        "narHash": "sha256-tQfKPNqZ1rPlLA/LoQQ6vM+18fvX9EzhVm21bPuEwy4=",
         "owner": "NKJe",
         "repo": "nixscopy",
-        "rev": "f3b1fc1a7732f0a34c2a1baa7c26ff939bbd36ce",
+        "rev": "6cb5fff3ed5c71c3155e2351ba5d42082d0573b3",
         "type": "github"
       },
       "original": {
@@ -84,11 +84,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1608156341,
-        "narHash": "sha256-xci6kOlF37sxE7BAhNEUnJq3C1yLMLPFVBHyRQiT/Jk=",
+        "lastModified": 1617063239,
+        "narHash": "sha256-OQancnNH1IOd4e45i8yE1B3Y0uKjeBQSBRaX+aHqCBM=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "120a14e6aa32114ce561c4f051fa7438d4ed7bd9",
+        "rev": "b044cc3833b228eacbe4e64299856aa37893168e",
         "type": "github"
       },
       "original": {
@@ -155,11 +155,11 @@
       },
       "locked": {
         "dir": "sddm-sugar-candy",
-        "lastModified": 1617064317,
-        "narHash": "sha256-xx/+AsVwgajvvdZV/Nj00Rtr2sbHZ9yrLt/Yv0HhGEs=",
+        "lastModified": 1617067094,
+        "narHash": "sha256-tQfKPNqZ1rPlLA/LoQQ6vM+18fvX9EzhVm21bPuEwy4=",
         "owner": "NKJe",
         "repo": "nixscopy",
-        "rev": "f3b1fc1a7732f0a34c2a1baa7c26ff939bbd36ce",
+        "rev": "6cb5fff3ed5c71c3155e2351ba5d42082d0573b3",
         "type": "github"
       },
       "original": {
@@ -189,11 +189,11 @@
       },
       "locked": {
         "dir": "zsh-autocomplete",
-        "lastModified": 1617064317,
-        "narHash": "sha256-xx/+AsVwgajvvdZV/Nj00Rtr2sbHZ9yrLt/Yv0HhGEs=",
+        "lastModified": 1617067094,
+        "narHash": "sha256-tQfKPNqZ1rPlLA/LoQQ6vM+18fvX9EzhVm21bPuEwy4=",
         "owner": "NKJe",
         "repo": "nixscopy",
-        "rev": "f3b1fc1a7732f0a34c2a1baa7c26ff939bbd36ce",
+        "rev": "6cb5fff3ed5c71c3155e2351ba5d42082d0573b3",
         "type": "github"
       },
       "original": {
