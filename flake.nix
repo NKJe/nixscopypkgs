@@ -26,5 +26,6 @@
       packagesCombined = foldl recursiveUpdate { } onlyPackages;
     in {
       packages = packagesCombined;
+      hydraJobs = packagesCombined;
     };
 }
