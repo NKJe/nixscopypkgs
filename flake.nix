@@ -14,8 +14,7 @@
     let
       inherit (builtins) map removeAttrs;
 
-      inherit (nixpkgs) lib;
-      inherit (lib) flip foldl recursiveUpdate;
+      inherit (nixpkgs.lib) flip foldl recursiveUpdate;
 
       packages = [
         my-very-cool-background 
