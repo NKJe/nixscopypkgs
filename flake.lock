@@ -64,7 +64,9 @@
     "my-very-cool-background": {
       "inputs": {
         "flake-utils": "flake-utils",
-        "nixpkgs": "nixpkgs"
+        "nixpkgs": [
+          "nixpkgs"
+        ]
       },
       "locked": {
         "dir": "my-very-cool-background",
@@ -84,65 +86,25 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1617063239,
-        "narHash": "sha256-OQancnNH1IOd4e45i8yE1B3Y0uKjeBQSBRaX+aHqCBM=",
+        "lastModified": 1618587490,
+        "narHash": "sha256-NnTlWVB7S8j1YXvzLMs6EUPWnYgw6Lz2IP24VGH0fTQ=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "b044cc3833b228eacbe4e64299856aa37893168e",
+        "rev": "f0efbe21f9ae1e17d1aca922708f1bdef605039d",
         "type": "github"
       },
       "original": {
-        "id": "nixpkgs",
-        "type": "indirect"
-      }
-    },
-    "nixpkgs_2": {
-      "locked": {
-        "lastModified": 1618788329,
-        "narHash": "sha256-alZ4bqHUmTOt8NqDPxnM95wS5VRSU/5ha8w8Lv07Ilg=",
         "owner": "NixOS",
+        "ref": "nixpkgs-unstable",
         "repo": "nixpkgs",
-        "rev": "347ddba6abe7f5651963ed1d36bb31c3309cf9a6",
         "type": "github"
-      },
-      "original": {
-        "id": "nixpkgs",
-        "type": "indirect"
-      }
-    },
-    "nixpkgs_3": {
-      "locked": {
-        "lastModified": 1617063239,
-        "narHash": "sha256-OQancnNH1IOd4e45i8yE1B3Y0uKjeBQSBRaX+aHqCBM=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "b044cc3833b228eacbe4e64299856aa37893168e",
-        "type": "github"
-      },
-      "original": {
-        "id": "nixpkgs",
-        "type": "indirect"
-      }
-    },
-    "nixpkgs_4": {
-      "locked": {
-        "lastModified": 1617721766,
-        "narHash": "sha256-8nyvm/UIWnSxK9pdA7XmR6Y6MxSTfHkMVdWjbE141O8=",
-        "owner": "NixOS",
-        "repo": "nixpkgs",
-        "rev": "873991697f8f6eeaa9d5bc80334eda4807c0e712",
-        "type": "github"
-      },
-      "original": {
-        "id": "nixpkgs",
-        "type": "indirect"
       }
     },
     "root": {
       "inputs": {
         "flake-compat": "flake-compat",
         "my-very-cool-background": "my-very-cool-background",
-        "nixpkgs": "nixpkgs_2",
+        "nixpkgs": "nixpkgs",
         "sddm-sugar-candy": "sddm-sugar-candy",
         "zsh-autocomplete": "zsh-autocomplete"
       }
@@ -150,7 +112,9 @@
     "sddm-sugar-candy": {
       "inputs": {
         "flake-utils": "flake-utils_2",
-        "nixpkgs": "nixpkgs_3",
+        "nixpkgs": [
+          "nixpkgs"
+        ],
         "sddm-sugar-candy-src": "sddm-sugar-candy-src"
       },
       "locked": {
@@ -184,7 +148,9 @@
     "zsh-autocomplete": {
       "inputs": {
         "flake-utils": "flake-utils_3",
-        "nixpkgs": "nixpkgs_4",
+        "nixpkgs": [
+          "nixpkgs"
+        ],
         "zsh-autocomplete-src": "zsh-autocomplete-src"
       },
       "locked": {
